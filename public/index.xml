@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bored Blogger</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Bored Blogger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 16:24:18 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Blog</title>
+      <link>http://example.org/second-blog/</link>
+      <pubDate>Sun, 13 Feb 2022 16:24:18 +0100</pubDate>
+      
+      <guid>http://example.org/second-blog/</guid>
+      <description>This is my first blog!
+print(&amp;#39;this is a print statement&amp;#39;) for i in range(1, 10): print(&amp;#39;I like to code&amp;#39;) </description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/welcome/</link>
+      <pubDate>Sun, 13 Feb 2022 16:22:15 +0100</pubDate>
+      
+      <guid>http://example.org/welcome/</guid>
+      <description>This is my first blog!
+print(&amp;#39;this is a print statement&amp;#39;) </description>
+    </item>
+    
+  </channel>
+</rss>
