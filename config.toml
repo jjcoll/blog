@@ -1,4 +1,4 @@
-baseURL = "http://jjcoll.github.io/blog/"
+baseURL = "https://jjcoll.github.io/blog/"
 languageCode = "en-us"
 title = "Bored Blogger"
 theme="contrast"
